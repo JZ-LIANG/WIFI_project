@@ -1,0 +1,10 @@
+#define HELLO_WIFI              0X01
+#define CONFIG                  0X03
+#define SOCKET                  0X05
+#define ACK_HELLO               0X02
+#define ACK_CONFIG_SUCCESS      0X04
+#define ACK_CONFIG_FAILED       0X09
+#define ACK_SOCKET_SUCCESS      0X06
+#define ACK_SOCKET_FAILED       0X0A
+#define SENDDATA                0X07
+#define GETDATA                 0X08
